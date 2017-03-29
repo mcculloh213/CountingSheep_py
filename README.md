@@ -1,5 +1,5 @@
 # CountingSheep_py
-Google Code Jam 2016 Qualification Round | [Problem A: Counting Sheep](https://code.google.com/codejam/contest/6254486/dashboard#s=p0&a=1)
+Google Code Jam 2016 Qualification Round | [Problem A: Counting Sheep](https://code.google.com/codejam/contest/6254486/dashboard#s=p0&a=1) -- Python 3 Solution
 
 ## Problem
 
@@ -32,4 +32,4 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 ## Large dataset
 
-`0 ≤ N ≤ 10**6`
+`0 ≤ N ≤ 10<sup>6</sup>`
