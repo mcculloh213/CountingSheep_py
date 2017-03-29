@@ -24,12 +24,12 @@ For each test case, output one line containing `Case #x: y`, where `x` is the te
 
 ## Limits
 
-`1 ≤ T ≤ 100`
+1 ≤ `T` ≤ 100
 
 ## Small dataset
 
-`0 ≤ N ≤ 200`
+0 ≤ `N` ≤ 200
 
 ## Large dataset
 
-`0 ≤ N ≤ 10<sup>6</sup>`
+0 ≤ `N` ≤ 10<sup>6</sup>
